@@ -93,3 +93,6 @@ Similarity Calculation: Uses Cosine Similarity to find movies closest to the use
 
 Home Page,Movie Details
 "<img src=""Screenshot-HomePage.png"" width=""400"">","<img src=""Screenshot-MovieDetailPage1.png"" width=""400"">"
+
+Recommendations	Netflix Page
+<img src="Screenshot-RecommendationPage1.png" width="400">	<img src="Screenshot-NetflixPage.png" width="400">
