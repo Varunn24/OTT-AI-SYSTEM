@@ -89,3 +89,7 @@ Preprocessing: Cleans data and processes text features (Cast, Director, Descript
 Vectorization: Converts text data into vectors.
 
 Similarity Calculation: Uses Cosine Similarity to find movies closest to the user's choice.
+
+
+Home Page,Movie Details
+"<img src=""Screenshot-HomePage.png"" width=""400"">","<img src=""Screenshot-MovieDetailPage1.png"" width=""400"">"
